@@ -14,6 +14,7 @@ header{
 }
 
 #title{
+    cursor: context-menu;
     border: solid 1px rgba(0, 0, 0, 0.795);
     background-color: rgb(255, 229, 195);
     padding: 20px;
